@@ -1,6 +1,6 @@
 
 ## :wave: Oie, meu nome é Jaynara!
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/jaynara95">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=jaynara95&count_private=true&theme=tokyonight&showicons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaynara95&layout=compact&langs_count=7&theme=dracula"/>
