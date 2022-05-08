@@ -1,2 +1,1 @@
-# jaynara
-Jaynara´s Portifólio
+:wave: Hi, my name is Jaynara
