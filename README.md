@@ -22,5 +22,9 @@
   <img align="center" alt="Jay-gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
   <img align="center" alt="Jay-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Jay-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img align="center" alt="vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+          
 </div>
  
